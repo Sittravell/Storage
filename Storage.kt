@@ -1,3 +1,4 @@
+/* REPLACE : With your application id */
 package com.example.templates.utils
 
 import android.app.Activity
